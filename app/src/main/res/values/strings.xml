@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculadoraBasicaJava</string>
+    <string name="txt_numero">Escribe un número: </string>
+    <string name="txt_suma">SUMA</string>
+    <string name="txt_resta">RESTA</string>
+    <string name="txt_multiplicar">MULTIPLICACIÓN</string>
+    <string name="txt_division">DIVISIÓN</string>
+</resources>
